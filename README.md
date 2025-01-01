@@ -14,6 +14,24 @@ This project focuses on analyzing user behavior and engagement across different 
 8. [Conclusion](#conclusion)
 
 ---
+## How to run 
+
+Clone this repository using this command in the terminal
+
+git clone https://github.com/KISHORE110504/Mavericks-U-B-A-track
+
+Move to the link in the terminal using
+
+> cd Mavericks-U-B-A-Track
+
+Install the requirements.txt using this command in the same terminal
+
+pip install -r requirements.txt
+
+Then open the jupyter notebook
+
+and run cells using run all option from the terminal tab
+---
 
 ## Overview
 
